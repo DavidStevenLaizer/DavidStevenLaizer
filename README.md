@@ -1,7 +1,5 @@
 - 👋 Hi, I’m David
 - 👀 I’m interested in Development applications from web to desktop.
-- 🌱 I’m currently learning Software Engineering at Udom heading to Artificial Intelligence in Masters.
-- 💞️ I’m looking to collaborate on various development issues
 - 📫 How to reach me through stevenlaizer5121999@gmail.com
 
 <!---
